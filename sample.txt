@@ -3,3 +3,4 @@ this is awesome test
 some more text
 restore and commit are same
 git hub started
+next line
