@@ -1,3 +1,4 @@
 initial text file sample
 this is awesome test
 some more text
+restore and commit are same
