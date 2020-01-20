@@ -1,4 +1,7 @@
 # Sample Read Me
-##initial text file
-##made changes
-##another changes tapan
+## initial text file
+
+Learning Git
+
+## made changes
+## another changes tapan
